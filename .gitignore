@@ -5,6 +5,8 @@ output/
 *.bak
 *.swp
 
+clients/
+
 # OS files
 .DS_Store
 Thumbs.db
